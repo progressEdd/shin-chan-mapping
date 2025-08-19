@@ -1,4 +1,5 @@
 import os
+import re
 from dotenv import load_dotenv
 from pathlib import Path
 from vector_search import vector_search
@@ -6,19 +7,23 @@ from typing import List, Dict, Any
 import copy
 import pandas as pd
 
-# Determine the base directory relative to the file's path or current working directory
-current_dir = Path(__file__).resolve().parent if '__file__' in locals() else Path.cwd()
+from pathlib import Path
 
-# Adjust the path to point to the supporting_files/data/.env file
-supporting_files = os.path.join(current_dir.parents[1], "00-supporting-files")
+try:
+    start = Path(__file__).resolve()
+except NameError:
+    start = Path.cwd()
 
-data_path = current_dir.parents[1] / "00-supporting-files" / "data" 
+supporting_files = next(p / "00-supporting-files" for p in start.parents if (p / "00-supporting-files").exists())
+
+data_path = supporting_files / "data" 
 wikipedia_path = data_path / 'wikipedia_episodes.json'
 german_path = data_path / "wunschliste_episodes.json"
 
 embedding_model = "hf.co/Qwen/Qwen3-Embedding-8B-GGUF:latest"
 ollama_llm = "gemma3:27b-it-q4_K_M"
 
+import ollama
 from openai import OpenAI
 client = OpenAI(
     base_url = 'http://localhost:11434/v1',
@@ -82,6 +87,7 @@ def flatten_wunschliste(wunschliste_data):
 def generate_embedding(data, embedding_model):
     for row in data:
         row["title_embedding"] = ollama.embed(model=embedding_model,input=row["title"]).embeddings
+    return data
 
 def export_embeddings(data, data_path, filename):
     embedding_export = data_path / filename
@@ -106,12 +112,12 @@ def remove_by_embedded_title(episodes: List[Dict[str, Any]], title: str) -> List
 
 def main():
     # generate wikipedia data, uncomment if you want to generate wikipedia
-    # wiki_flat = flatten_wikipedia(wikipedia_data)
-    # wiki_flat_embedded = generate_embedding(wiki_flat, embedding_model)
+    wiki_flat = flatten_wikipedia(wikipedia_data)
+    wiki_flat_embedded = generate_embedding(wiki_flat, embedding_model)
     # export_embeddings(wuns_flat_embedded, "flattened_wikipedia.json") # uncomment if you want to export embeddings
 
     wuns_flat = flatten_wunschliste(wunschliste_data)
-    wuns_flat_embedded = generate_embeddings(wuns_flat, embedding_model)
+    wuns_flat_embedded = generate_embedding(wuns_flat, embedding_model)
     # export_embeddings(wiki_flat_embedded, "flattened_wunschliste.json")
     
 
@@ -122,7 +128,7 @@ def main():
 
         
         matches = vector_search(
-            vector_index,
+            wiki_flat, # replace with wuns if searching on german titles
             text=title_to_map,
             model=embedding_model,
             top_k=30,
@@ -132,7 +138,6 @@ def main():
 
         retrieved_titles = get_title_list(matches)
         retrieved_title_language = "English/Japanese"
-
 
 
         llm_matches = llm_matching(title_to_map, title_language,
