@@ -1,3 +1,1262 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c6ed4e9acc32e41efc5dbb2e70b902f0792a0692a824ae9a9573ec42c430bbf0
-size 25521
+{
+  "season 1": [
+    {
+      "episode": 1,
+      "titles": [
+        "Fett For Fun",
+        "Sport extrem",
+        "Braue um Braue, Zahn um Zahn"
+      ]
+    },
+    {
+      "episode": 2,
+      "titles": [
+        "Eine wirklich schreckliche Familie",
+        "Fahr zur Hölle, Liebling (1)",
+        "Fahr zur Hölle, Liebling (2)"
+      ]
+    },
+    {
+      "episode": 3,
+      "titles": [
+        "Pyjama-Party bei Fräulein Dori",
+        "Das Mannweib",
+        "Prima Klima"
+      ]
+    },
+    {
+      "episode": 4,
+      "titles": [
+        "Der schnellste Po von Mexiko",
+        "Spitzen-Spaß beim Apres-Ski",
+        "Pech auf der Piste"
+      ]
+    },
+    {
+      "episode": 5,
+      "titles": [
+        "Pustekuchen!",
+        "Wie gewonnen, so zerronnen",
+        "Jetzt geht's rund - erst die Oma, dann der Hund"
+      ]
+    },
+    {
+      "episode": 6,
+      "titles": [
+        "Plan B, wie \"B\"escheuert",
+        "Lebwohl, Cosmo, bis morgen!",
+        "Aus den Augen, aus dem Sinn"
+      ]
+    },
+    {
+      "episode": 7,
+      "titles": [
+        "Na dann, gute Nacht!",
+        "Treffer, versenkt!",
+        "Wer wird denn gleich in die Luft gehen?"
+      ]
+    },
+    {
+      "episode": 8,
+      "titles": [
+        "Baggern für Anfänger",
+        "Fisch-Vergnügen mit Folgen",
+        "Terror auf Station 2"
+      ]
+    },
+    {
+      "episode": 9,
+      "titles": [
+        "Das Grauen hat zwei Gesichter",
+        "Ein Zoo der Extraklasse",
+        "Du sollst Vater und Mutter ehren"
+      ]
+    },
+    {
+      "episode": 10,
+      "titles": [
+        "Schöne Ferien!",
+        "Essen für Drei",
+        "Am Busen der Natur"
+      ]
+    },
+    {
+      "episode": 11,
+      "titles": [
+        "Rettet Muchacho!",
+        "Shin Chan sieht schwarz",
+        "Wo die Liebe hinfällt"
+      ]
+    },
+    {
+      "episode": 12,
+      "titles": [
+        "Ab geht die Post!",
+        "Der nackte Horror",
+        "Selbst ist der Mann!"
+      ]
+    },
+    {
+      "episode": 13,
+      "titles": [
+        "Ein Furz zu viel",
+        "Fressmonster im Anmarsch",
+        "Ein scharfer Schnitt!"
+      ]
+    },
+    {
+      "episode": 14,
+      "titles": [
+        "Krümelmonster auf Kekspfad",
+        "Die Nummer mit Uma",
+        "Mama macht 'ne Mücke"
+      ]
+    },
+    {
+      "episode": 15,
+      "titles": [
+        "Bis die Fetzen fliegen",
+        "Lass die Keule krachen!",
+        "Reiher den Hugendubel!"
+      ]
+    },
+    {
+      "episode": 16,
+      "titles": [
+        "Der vollstreckte Vollstrecker",
+        "Was nicht tötet...",
+        "Hüte dich vorm Halb-Sieben-Mann!"
+      ]
+    },
+    {
+      "episode": 17,
+      "titles": [
+        "Dicke Fische",
+        "Alles auf eine Karte",
+        "Frau am Steuer"
+      ]
+    },
+    {
+      "episode": 18,
+      "titles": [
+        "Die Hundekuchen-Dame",
+        "Papis Verehrerin",
+        "Der faltenfreie Kühlschrank"
+      ]
+    },
+    {
+      "episode": 19,
+      "titles": [
+        "Die Wette gilt",
+        "Verraten und verkauft",
+        "Der Albtraum meiner schlaflosen Nächte"
+      ]
+    },
+    {
+      "episode": 20,
+      "titles": [
+        "Marty im Nervenkostüm",
+        "Angriff der Killer-Bazillen",
+        "Die Krücke am Fluss"
+      ]
+    },
+    {
+      "episode": 21,
+      "titles": [
+        "Was sich liebt, das neckt sich",
+        "Zimmer frei!",
+        "Viel Lärm um nichts"
+      ]
+    },
+    {
+      "episode": 22,
+      "titles": [
+        "Ganz schön übel",
+        "Die Klorollen-Kollektion",
+        "Lesen bildet - ganz umsonst!"
+      ]
+    },
+    {
+      "episode": 23,
+      "titles": [
+        "Über alle Berge",
+        "Ein Fressen für die Geier",
+        "Hunger ist der beste Koch"
+      ]
+    },
+    {
+      "episode": 24,
+      "titles": [
+        "Mitsy ist nicht zu fassen!",
+        "Ein Date zu dritt",
+        "Das Glück kommt Stück für Stück"
+      ]
+    },
+    {
+      "episode": 25,
+      "titles": [
+        "Rock around the Unterrock",
+        "Armer, kranker Lucky",
+        "Picknick im Park"
+      ]
+    }
+  ],
+  "season 2": [
+    {
+      "episode": 1,
+      "titles": [
+        "Gleichmut kommt vor dem Fall",
+        "Liebe auf den ersten Tritt",
+        "Fritz Fiesling und die Finsterlinge"
+      ]
+    },
+    {
+      "episode": 2,
+      "titles": [
+        "Lügen haben lange Nasen",
+        "Schlafende Hunde...",
+        "Mit Leib und Seele"
+      ]
+    },
+    {
+      "episode": 3,
+      "titles": [
+        "Ich will eine neue Mami!",
+        "Hoppelhasen im Pool",
+        "Die Vati-Fernbedienung"
+      ]
+    },
+    {
+      "episode": 4,
+      "titles": [
+        "Großer Bruder Shin",
+        "Oh Baby, Baby, balla-balla!",
+        "Keine Müdigkeit vorschützen!"
+      ]
+    },
+    {
+      "episode": 5,
+      "titles": [
+        "Kindervorstellung",
+        "Was Frauen wünschen",
+        "Der Pate aus Schweden"
+      ]
+    },
+    {
+      "episode": 6,
+      "titles": [
+        "Wochenend und Sonnenschein",
+        "Draußen vor der Tür",
+        "Mamma mia!"
+      ]
+    },
+    {
+      "episode": 7,
+      "titles": [
+        "Eisberg voraus",
+        "Ring frei zur nächsten Damenrunde!",
+        "Liebe geht durch den Magen"
+      ]
+    },
+    {
+      "episode": 8,
+      "titles": [
+        "Ach, du dicker Klapperstorch",
+        "Vom Leben gezeichnet",
+        "Zwei Penner im Park"
+      ]
+    },
+    {
+      "episode": 9,
+      "titles": [
+        "Verliebt, verflixt, verheiratet!",
+        "Die reinste Affenliebe",
+        "Die Lümmel von der letzten Parkbank"
+      ]
+    },
+    {
+      "episode": 10,
+      "titles": [
+        "Klein-Daisy und das Bier",
+        "Im Wald, da sind die Räuber...",
+        "Na, dann gute Nacht!"
+      ]
+    },
+    {
+      "episode": 11,
+      "titles": [
+        "Vollkommen aus dem Häuschen!",
+        "Vertrauen ist gut, Kontrolle ist besser...",
+        "Wer hat noch nicht, wer will noch mal?"
+      ]
+    },
+    {
+      "episode": 12,
+      "titles": [
+        "Ein Mann, ein Wort",
+        "Lass mich dein Eismann sein!",
+        "Schon wieder verschwunden"
+      ]
+    },
+    {
+      "episode": 13,
+      "titles": [
+        "Mit Brille wär' das nicht passiert!",
+        "Die Katzenjammer-Kids",
+        "Baby auf Abwegen"
+      ]
+    },
+    {
+      "episode": 14,
+      "titles": [
+        "Ehe, wem Ehe gebührt",
+        "Shin Chan allein zu Haus",
+        "Da steht'n Pferd auf'm Flur!"
+      ]
+    },
+    {
+      "episode": 15,
+      "titles": [
+        "Der Vor-Valentinstag",
+        "Schlag auf Schlag",
+        "Von Herzen mit Schmerzen"
+      ]
+    },
+    {
+      "episode": 16,
+      "titles": [
+        "Friedhof der Krabbeltiere",
+        "Herzen im Sturm",
+        "Fragen Sie Frau Goober!"
+      ]
+    },
+    {
+      "episode": 17,
+      "titles": [
+        "Aus der Traum!",
+        "Und Action!",
+        "Keiner liebt mich"
+      ]
+    },
+    {
+      "episode": 18,
+      "titles": [
+        "Fugu-Fisch (1)",
+        "Fugu-Fisch (2)",
+        "Shin Chan gegen Kung-Fu-Kid"
+      ]
+    },
+    {
+      "episode": 19,
+      "titles": [
+        "Handstand und Sitte",
+        "Angsthase und Schweinigel",
+        "Zu heiß gebadet"
+      ]
+    },
+    {
+      "episode": 20,
+      "titles": [
+        "Panzer-Robotiko!",
+        "Daisy macht mich crazy!",
+        "Ein familienfreundlicher Imbiss"
+      ]
+    },
+    {
+      "episode": 21,
+      "titles": [
+        "Long John Shin Chan",
+        "Wir machen Fräulein Dori krank!",
+        "Auf die kalte Tour"
+      ]
+    },
+    {
+      "episode": 22,
+      "titles": [
+        "Jetzt oder nie - wir fahren Ski!",
+        "Berg- und Talfahrt",
+        "Das Spiel ist aus"
+      ]
+    },
+    {
+      "episode": 23,
+      "titles": [
+        "Weine nicht, wenn der Regen fällt...",
+        "Tiefgekühlt und abserviert",
+        "Die Turteltäubchen von nebenan"
+      ]
+    },
+    {
+      "episode": 24,
+      "titles": [
+        "Die kleinen Spürnasen",
+        "Krabbelgruppensieger",
+        "Gesucht und gefunden..."
+      ]
+    },
+    {
+      "episode": 25,
+      "titles": [
+        "Der Schrecken im Becken",
+        "Ein Engel schwebt herab",
+        "Daisy vor der Explosion"
+      ]
+    }
+  ],
+  "season 3": [
+    {
+      "episode": 1,
+      "titles": [
+        "Der Muchacho-Strahl-Beschleuniger",
+        "Die Frage aller Fragen",
+        "Mitgegangen - mitgefangen..."
+      ]
+    },
+    {
+      "episode": 2,
+      "titles": [
+        "Tanz den Entensee!",
+        "Ein Sonntag mit Paps",
+        "Was ist bloß mit Mopsi los?"
+      ]
+    },
+    {
+      "episode": 3,
+      "titles": [
+        "Früh krümmt sich, was ein Häkchen wird",
+        "Hummeln im Herzen",
+        "Liebe vergeht - Hunger besteht"
+      ]
+    },
+    {
+      "episode": 4,
+      "titles": [
+        "Pinsel und Farbe gibt keine Narbe!",
+        "Voll von der Rolle",
+        "Ein Gläschen zu viel hat immer Stil"
+      ]
+    },
+    {
+      "episode": 5,
+      "titles": [
+        "Pops pfeift aus dem letzten Loch",
+        "Porentief eingeseift",
+        "Mitsys süßes Geheimnis"
+      ]
+    },
+    {
+      "episode": 6,
+      "titles": [
+        "Ein Samurai ist auch dabei",
+        "Kein Knopf in der Hose",
+        "Es bläst und bläst"
+      ]
+    },
+    {
+      "episode": 7,
+      "titles": [
+        "Echt abgefahren!",
+        "Begegnung der dritten Art",
+        "Der Popel-Literat"
+      ]
+    },
+    {
+      "episode": 8,
+      "titles": [
+        "Nicht lang schnacken, Kopf in'n Nacken!",
+        "Chaos auf der Bowlingbahn",
+        "Mistkröte im Afrolook"
+      ]
+    },
+    {
+      "episode": 9,
+      "titles": [
+        "Tierisch was los!",
+        "Ein Po geht auf Sendung",
+        "Nicht mehr ganz dicht"
+      ]
+    },
+    {
+      "episode": 10,
+      "titles": [
+        "Ganz schön aufgeweckt!",
+        "Nach Shin die Sintflut",
+        "Der Robben-Boogie-Woogie"
+      ]
+    },
+    {
+      "episode": 11,
+      "titles": [
+        "Zu heiß gebadet!",
+        "Der Comic-Clan",
+        "Muchacho macht's!"
+      ]
+    },
+    {
+      "episode": 12,
+      "titles": [
+        "Wer schreibt, sündigt nicht",
+        "Cool im Pool",
+        "Kindermund tut Wahrheit kund"
+      ]
+    },
+    {
+      "episode": 13,
+      "titles": [
+        "Der grüne Horror aus dem Garten",
+        "Kampf den Kippen!",
+        "Uma, der einsame Puma"
+      ]
+    },
+    {
+      "episode": 14,
+      "titles": [
+        "Mit allen Wassern gewaschen",
+        "In Bad und WC ist alles okay",
+        "Erst die Blamage - dann die Massage"
+      ]
+    },
+    {
+      "episode": 15,
+      "titles": [
+        "Backzwangs Brechmittel",
+        "Ich bin ein Hund - na und?",
+        "Das Zickenrennen"
+      ]
+    },
+    {
+      "episode": 16,
+      "titles": [
+        "Shin Chan schießt den Vogel ab",
+        "Der Kitzel-Kampf",
+        "Der Paprika-Kasper"
+      ]
+    },
+    {
+      "episode": 17,
+      "titles": [
+        "Racker am Ruder!",
+        "Dumm gelaufen, Max!",
+        "Das Monster-Nudel-Menü"
+      ]
+    },
+    {
+      "episode": 18,
+      "titles": [
+        "Doofe tragen keine Karos",
+        "Männer sind alle Verbrecher...",
+        "Au, Backe!"
+      ]
+    },
+    {
+      "episode": 19,
+      "titles": [
+        "Spiel und Spaß mit Mausi",
+        "Kampf der Grippe!",
+        "Husten, Schnupfen, Heiterkeit"
+      ]
+    },
+    {
+      "episode": 20,
+      "titles": [
+        "Shin Chan auf Tuchfühlung",
+        "Der Schlaf der Geächteten",
+        "Sternbild Wildsau..."
+      ]
+    },
+    {
+      "episode": 21,
+      "titles": [
+        "Volle Kanne Kalligraphie!",
+        "Bum-Bada-Bum mit Fanny",
+        "Dach-Hasi"
+      ]
+    },
+    {
+      "episode": 22,
+      "titles": [
+        "Alles frisch bei Tisch",
+        "Der Weg ist das Ziel",
+        "Außer Lesen nichts gewesen"
+      ]
+    },
+    {
+      "episode": 23,
+      "titles": [
+        "Schrullen am Steuer",
+        "Auf alle Fälle Vollkasko",
+        "Mitten ins Herz"
+      ]
+    },
+    {
+      "episode": 24,
+      "titles": [
+        "Die Maskierte Muchacha",
+        "Das Anti-Brutalo-Kommando",
+        "Liebe macht blöd"
+      ]
+    },
+    {
+      "episode": 25,
+      "titles": [
+        "Fetter Sumo-Fun!",
+        "Ein Schlückchen in Ehren",
+        "Alles schläft, einsam wacht"
+      ]
+    }
+  ],
+  "season 4": [
+    {
+      "episode": 1,
+      "titles": [
+        "Alles kalter Kaffee",
+        "Das ist 'ne Brotzeit!",
+        "Heimwerker des Horrors"
+      ]
+    },
+    {
+      "episode": 2,
+      "titles": [
+        "Der Pate auf Reisen",
+        "Ein Mega-Missverständnis",
+        "Dubiose Direktoren"
+      ]
+    },
+    {
+      "episode": 3,
+      "titles": [
+        "Kaufrausch vom Feinsten",
+        "Einfach zum Piepen!",
+        "Ein Video für Papa"
+      ]
+    },
+    {
+      "episode": 4,
+      "titles": [
+        "Operation \"Nestflüchter\"",
+        "Die Stimme aus dem Bauch",
+        "Bummbumm Shin Chan"
+      ]
+    },
+    {
+      "episode": 5,
+      "titles": [
+        "Angeschmiert",
+        "Umsonst ist teuer",
+        "Aus der Art geschlagen"
+      ]
+    },
+    {
+      "episode": 6,
+      "titles": [
+        "Frohes Neues!",
+        "Knödelhuber junior",
+        "Skizirkus"
+      ]
+    },
+    {
+      "episode": 7,
+      "titles": [
+        "Ich bin ein Held",
+        "Ruhm verblasst",
+        "Wem's schmeckt..."
+      ]
+    },
+    {
+      "episode": 8,
+      "titles": [
+        "Das Eis ist heiß!",
+        "Wer hat hier die Tollwut?",
+        "Camping-Freuden"
+      ]
+    },
+    {
+      "episode": 9,
+      "titles": [
+        "Shin-Lizzie",
+        "Schöne Melonung...",
+        "Melone à la Muchacho"
+      ]
+    },
+    {
+      "episode": 10,
+      "titles": [
+        "Nudelsuppen-Weitwurf",
+        "Der Pirouetten-König",
+        "Saumagen-Schmerzen..."
+      ]
+    },
+    {
+      "episode": 11,
+      "titles": [
+        "Kuck mal, wer da gackert!",
+        "Ein Tag, der sich gewaschen hat",
+        "So eine schöne Aussicht!"
+      ]
+    },
+    {
+      "episode": 12,
+      "titles": [
+        "Gebügelt, gefaltet und zerfetzt!",
+        "Fleisch macht glücklich",
+        "Feuer unterm Pferdehintern"
+      ]
+    },
+    {
+      "episode": 13,
+      "titles": [
+        "Lang, lang ist's her",
+        "Hausbesuch",
+        "Zum Nachtisch Shin"
+      ]
+    },
+    {
+      "episode": 14,
+      "titles": [
+        "Der Teufel auf drei Rädern",
+        "Kaviar à Gogo",
+        "Steig in den Teig!"
+      ]
+    },
+    {
+      "episode": 15,
+      "titles": [
+        "Damit hat Shin nicht gerechnet",
+        "Der um den Grill tanzt",
+        "Harry, das Stehaufmännchen"
+      ]
+    },
+    {
+      "episode": 16,
+      "titles": [
+        "Der Sandkasten-Prinz",
+        "Sumo-Ringkampf zu Hause",
+        "Wirbelsturm Mitsy"
+      ]
+    },
+    {
+      "episode": 17,
+      "titles": [
+        "Mit dem Po-Boogie-Woogie zum Sieg",
+        "Die geheimnisvolle Kramkiste",
+        "Tauschen statt verkaufen"
+      ]
+    },
+    {
+      "episode": 18,
+      "titles": [
+        "Krawall bei Frau Krötich",
+        "Mitsys neue Freundin",
+        "Küchenkrampf"
+      ]
+    },
+    {
+      "episode": 19,
+      "titles": [
+        "Mitsy auf Hochtouren",
+        "Reizend heizend",
+        "Pfannkuchen fatal"
+      ]
+    },
+    {
+      "episode": 20,
+      "titles": [
+        "Schnuller-Alarm",
+        "Windelweich",
+        "Zu gut versteckt!"
+      ]
+    },
+    {
+      "episode": 21,
+      "titles": [
+        "Ein Piekser für Daisy",
+        "Mein Baby Mini-Mitz",
+        "Ein Klotz am Bein kommt selten allein"
+      ]
+    },
+    {
+      "episode": 22,
+      "titles": [
+        "Le Boogie Cul-Nu",
+        "Die Zinsen, die grinsen",
+        "Süßnarkose"
+      ]
+    },
+    {
+      "episode": 23,
+      "titles": [
+        "Mitsy hat eine Lobhudelattacke",
+        "Ein Lottoleben",
+        "Poppy dreht durch"
+      ]
+    },
+    {
+      "episode": 24,
+      "titles": [
+        "Bandenkrieg im Schnee",
+        "Fieber",
+        "Uma-Puma auf Abwegen"
+      ]
+    },
+    {
+      "episode": 25,
+      "titles": [
+        "Shinguin im Märchenland",
+        "Explosive Nudeln",
+        "Mit Schirm, Charme und Shin Chan"
+      ]
+    },
+    {
+      "episode": 26,
+      "titles": [
+        "Shin-Chan-Klein, ging allein",
+        "Hohn in Ton",
+        "Hast du Stempel, kriegst du Krempel"
+      ]
+    },
+    {
+      "episode": 27,
+      "titles": [
+        "Das Duell der Großväter",
+        "Das Duell der Großväter, Teil 2",
+        "Shin, der Boss"
+      ]
+    },
+    {
+      "episode": 28,
+      "titles": [
+        "Wir zelten zum Glück selten",
+        "Das große Gruseln",
+        "Melone ist nicht ohne"
+      ]
+    },
+    {
+      "episode": 29,
+      "titles": [
+        "Shin macht Faxen",
+        "Tubassos Kritzel-Periode",
+        "Huckepack"
+      ]
+    }
+  ],
+  "season 5": [
+    {
+      "episode": 1,
+      "titles": [
+        "Die Abi-Karaoke-Party",
+        "Leben wie am Nordpol",
+        "Paps blitzt in der Herrenabteilung"
+      ]
+    },
+    {
+      "episode": 2,
+      "titles": [
+        "Ein Auf und ab",
+        "Daisy hat die Zeit im Griff",
+        "Tag mit Daisy"
+      ]
+    },
+    {
+      "episode": 3,
+      "titles": [
+        "Shin Chan, ein Golfnaturtalent",
+        "Die Po-Brigade",
+        "Tofu-Invasion"
+      ]
+    },
+    {
+      "episode": 4,
+      "titles": [
+        "Zum Nachtisch: Rache",
+        "Ein Antrag zum Dessert",
+        "Auf den Zahn gefühlt"
+      ]
+    },
+    {
+      "episode": 5,
+      "titles": [
+        "Heißsporn kalt erwischt",
+        "Fiebermessen - Donuts essen",
+        "Teurer Sparversuch"
+      ]
+    },
+    {
+      "episode": 6,
+      "titles": [
+        "Verstrickt",
+        "Zugzwang",
+        "Muchacho-Fans unter sich"
+      ]
+    },
+    {
+      "episode": 7,
+      "titles": [
+        "Reptilien-Alarm!",
+        "Nächtliche Wanderung",
+        "Mega-Spaß im Muchacho-Land"
+      ]
+    },
+    {
+      "episode": 8,
+      "titles": [
+        "Vollkommen von der Rolle",
+        "Super Shin und Roller Girl",
+        "Ein fettes Geschäft"
+      ]
+    },
+    {
+      "episode": 9,
+      "titles": [
+        "Teure Tickets!",
+        "Bahnfahren macht Spaß!",
+        "Ohne Mitsy geht's auch..."
+      ]
+    },
+    {
+      "episode": 10,
+      "titles": [
+        "Ohne Fleisch kein Preisch!",
+        "Shinny Baba und die Räuber",
+        "Die Axt im Haus"
+      ]
+    },
+    {
+      "episode": 11,
+      "titles": [
+        "Kein guter Plan",
+        "Mitsys Notgroschen",
+        "Ein Rendezvous mit Fräulein Bono"
+      ]
+    },
+    {
+      "episode": 12,
+      "titles": [
+        "Hundsgemein und pudelwohl",
+        "Aus der Klapse in die Klapse",
+        "Denn zum küssen sind sie da"
+      ]
+    },
+    {
+      "episode": 13,
+      "titles": [
+        "Ein Traum fährt gegen den Baum",
+        "Shin Chan, kleb an!",
+        "Ein Fall für den Techniker"
+      ]
+    },
+    {
+      "episode": 14,
+      "titles": [
+        "Auf die Torte, fertig, los!",
+        "Urlaub auf Balkonien",
+        "In der Hitze des Gefechts"
+      ]
+    },
+    {
+      "episode": 15,
+      "titles": [
+        "Die Rückkehr des Doktor Zahnstein",
+        "Keine Gnade für Dirty Harry",
+        "Im Eiswahn"
+      ]
+    },
+    {
+      "episode": 16,
+      "titles": [
+        "Ich wünsche mir...",
+        "Der Geist in der Thermoskanne",
+        "Der Katzensitter"
+      ]
+    },
+    {
+      "episode": 17,
+      "titles": [
+        "Na dann: Guten Flug!",
+        "Kartoffelkopf gedeihe!",
+        "Nur für Mädchen?"
+      ]
+    },
+    {
+      "episode": 18,
+      "titles": [
+        "Brüderchen und Schwesterchen",
+        "Der Stein der Weisen",
+        "Bis auf die Knochen blamiert"
+      ]
+    },
+    {
+      "episode": 19,
+      "titles": [
+        "Das tolle Ding im Ring",
+        "Kurzes Liebesglück",
+        "Kein Saft im Haus"
+      ]
+    },
+    {
+      "episode": 20,
+      "titles": [
+        "Eiskalt erwischt",
+        "Tierisch was los!",
+        "Gesucht und gefunden"
+      ]
+    },
+    {
+      "episode": 21,
+      "titles": [
+        "Die Pudding-Krise",
+        "Streichelzart und pfirsichweich",
+        "Bo, der Liebesretter"
+      ]
+    },
+    {
+      "episode": 22,
+      "titles": [
+        "Der alte Charmeur",
+        "Shin wird schön",
+        "Mit Harry im Weltall"
+      ]
+    },
+    {
+      "episode": 23,
+      "titles": [
+        "Unschuldig schuldig",
+        "Neues Herrchen gesucht",
+        "Vertigo im Kindergarten"
+      ]
+    },
+    {
+      "episode": 24,
+      "titles": [
+        "Geschiedene Geschwister",
+        "Superhund Lucky",
+        "Enzo wird das Kind schon schaukeln"
+      ]
+    },
+    {
+      "episode": 25,
+      "titles": [
+        "Harry im Himmel",
+        "Das große Rennen",
+        "Cosmos Fernsehgöttin"
+      ]
+    },
+    {
+      "episode": 26,
+      "titles": [
+        "Liebe macht blöd",
+        "Sallys neues Opfer",
+        "Der Preis der Liebe"
+      ]
+    }
+  ],
+  "season 6": [
+    {
+      "episode": 1,
+      "titles": [
+        "Was ein Hundeleben!",
+        "Vorschultheater!",
+        "Ein leckerer Domino-Effekt"
+      ]
+    },
+    {
+      "episode": 2,
+      "titles": [
+        "Bikinis machen Leute",
+        "Die \"Nein, nein, nein!-Taktik\"!",
+        "LED tut nicht weh!"
+      ]
+    },
+    {
+      "episode": 3,
+      "titles": [
+        "Shin chan vor, noch ein Tor!",
+        "Konferenzsaal gesucht! - Teil 1",
+        "Konferenzsaal gesucht! - Teil 2"
+      ]
+    },
+    {
+      "episode": 4,
+      "titles": [
+        "Wir machen einen Star",
+        "Was hat Bochan denn?",
+        "Das Abendessen überlass mir!"
+      ]
+    },
+    {
+      "episode": 5,
+      "titles": [
+        "Wir üben für unsere Aufführung",
+        "Himawari hat Schiss",
+        "Heute ernten wir Kartoffeln"
+      ]
+    },
+    {
+      "episode": 6,
+      "titles": [
+        "Scharfe Zunge kommt gut an",
+        "Das Schulfest",
+        "Action Mask, rette mich!"
+      ]
+    },
+    {
+      "episode": 7,
+      "titles": [
+        "Mission Jutebeutel",
+        "Der Spielzeug-Umzug",
+        "Mit Papa an der Küste angeln!"
+      ]
+    },
+    {
+      "episode": 8,
+      "titles": [
+        "SoKo Handy Dandy",
+        "Bitte lächeln!",
+        "Wahre Liebe geht durch's Handy"
+      ]
+    },
+    {
+      "episode": 9,
+      "titles": [
+        "Das verschwundene Manuskript",
+        "Ein Jahr zum Vergessen",
+        "Mit der Wärmflasche wird es kuschelig warm"
+      ]
+    },
+    {
+      "episode": 10,
+      "titles": [
+        "Ein Stein sie zu knechten",
+        "Akte Nix: Die unheimlichen Fälle des Shinchan - Teil 1",
+        "Akte Nix: Die unheimlichen Fälle des Shinchan - Teil 2"
+      ]
+    },
+    {
+      "episode": 11,
+      "titles": [
+        "Einkaufen mit Kazama",
+        "Kam ein Wellensittich geflogen",
+        "Wir haben Beweise auf Foto"
+      ]
+    },
+    {
+      "episode": 12,
+      "titles": [
+        "Das nenne ich großes Tennis!",
+        "Ein Autogramm kommt selten allein",
+        "Himawari kann nicht schlafen!"
+      ]
+    },
+    {
+      "episode": 13,
+      "titles": [
+        "Der Wunschzwerg hilft",
+        "Gleich und gleich verprellt sich gern",
+        "Saugkraft über alles"
+      ]
+    },
+    {
+      "episode": 14,
+      "titles": [
+        "Webcams und anderer Ärger",
+        "Shiros Umzug - Die etwas andere Umzugsgeschichte",
+        "Die Show der Röhrenaale"
+      ]
+    },
+    {
+      "episode": 15,
+      "titles": [
+        "Klogang mit Hindernissen",
+        "Das Kissen-Männchen",
+        "Doktor Knochenbruch"
+      ]
+    },
+    {
+      "episode": 16,
+      "titles": [
+        "Die mysteriöse Handtasche",
+        "Gips doch gar nicht!",
+        "Spielen, Essen, Wrestling!"
+      ]
+    },
+    {
+      "episode": 17,
+      "titles": [
+        "Zwillings-Alarm - Teil 1",
+        "Zwillings-Alarm - Teil 2",
+        "Heute schwimmen wir zum Kindergarten"
+      ]
+    },
+    {
+      "episode": 18,
+      "titles": [
+        "Die Drohne hat es gesehen",
+        "Die Vertreterin aus der Hölle",
+        "Die Sommer-Urlaubs-Konferenz"
+      ]
+    },
+    {
+      "episode": 19,
+      "titles": [
+        "Affentheater - Teil 1",
+        "Affentheater - Teil 2",
+        "Der Bauklotz-Wettkampf"
+      ]
+    },
+    {
+      "episode": 20,
+      "titles": [
+        "Weg damit!",
+        "Das Verkehrssicherheitstrio",
+        "Ein Papp-Sumo kommt selten allein"
+      ]
+    },
+    {
+      "episode": 21,
+      "titles": [
+        "Wir machen uns Sorgen um Masao",
+        "Das Monster und der Held",
+        "Die mysteriöse Verlosung"
+      ]
+    },
+    {
+      "episode": 22,
+      "titles": [
+        "Shiro wird ein Polizeihund",
+        "Eine haarige Angelegenheit für Ai chan",
+        "Das perfekte Versteck"
+      ]
+    },
+    {
+      "episode": 23,
+      "titles": [
+        "Es donnert in der Hose",
+        "Fit statt faul",
+        "Mit Liebe aufgeladen"
+      ]
+    },
+    {
+      "episode": 24,
+      "titles": [
+        "Live! Glitzer! Shin chan!",
+        "Handschuh-Memory",
+        "Ice, Ice, Shin chan"
+      ]
+    },
+    {
+      "episode": 25,
+      "titles": [
+        "Ein Hausmann hat's schwer",
+        "Nenes Klavierkonzert",
+        "Himawari will nicht baden"
+      ]
+    },
+    {
+      "episode": 26,
+      "titles": [
+        "Die große Schneeballschlacht",
+        "Shiros Fitnessplan",
+        "Mode ist, wenn man trotzdem lacht"
+      ]
+    }
+  ]
+}
