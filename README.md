@@ -21,7 +21,6 @@ uv sync
 If you plan on running the notebook, make sure ollama is running and pull the following models
 - `ollama pull gemma3:27b-it-q4_K_M`
 -  `ollama pull hf.co/Qwen/Qwen3-Embedding-8B-GGUF`
--  
 
 ### Playwright
 If you plan on scraping the websites from scratch with [crayon-shin-explore.ipynb](./02-development/exploration/crayon-shin-explore.ipynb), make sure to run 
