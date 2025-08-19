@@ -6,6 +6,8 @@ The original poster talked about their challenges getting ChatGPT to map German 
 
 The final output that needs a German speaker to review is found in the [mapped_episodes_table.md](./00-supporting-files/data/mapped_episodes_table.md) file. If you would like to understand my process, feel free to review [crayon-shin-demo.ipynb](./02-development/exploration/crayon-shin-demo.ipynb).
 
+If you just want to run the script, build the dependencies using the scripts below then run `uv run 03-app/crayon-shin-mapping.py` from the root of the directory. 
+
 ## Building Dependencies
 Make sure UV and ollama are installed. 
 
