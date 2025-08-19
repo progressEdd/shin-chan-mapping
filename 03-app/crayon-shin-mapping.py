@@ -168,5 +168,5 @@ def main():
     with open(markdown_path, "w", encoding="utf-8") as f:
         f.write(markdown_str)
 
- if __name__ == "__main__":
+if __name__ == "__main__":
     main()
